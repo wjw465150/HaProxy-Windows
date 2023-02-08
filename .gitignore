@@ -1,0 +1,7 @@
+hs_err_pid*
+
+*.log
+*.log.*
+*.htm
+*.html
+
