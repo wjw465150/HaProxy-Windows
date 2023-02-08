@@ -1,7 +1,10 @@
 hs_err_pid*
 
+.project
+
 *.log
 *.log.*
+
 *.htm
 *.html
 
