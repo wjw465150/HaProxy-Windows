@@ -1,6 +1,5 @@
 hs_err_pid*
 
-.project
 
 *.log
 *.log.*
@@ -8,3 +7,12 @@ hs_err_pid*
 *.htm
 *.html
 
+# IDE support files
+/.classpath
+/.launch
+/.project
+/.settings
+/*.launch
+/*.tmproj
+/ivy*
+/eclipse 
